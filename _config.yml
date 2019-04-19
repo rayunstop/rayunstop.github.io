@@ -25,11 +25,9 @@ github_username:  rayunstop
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
-
-theme: jekyll-theme-leap-day
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
